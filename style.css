@@ -83,7 +83,7 @@ h2 {
 
 #full-stack-exp {
     border-left: 7px solid;
-    border-image: linear-gradient(red blue);
+    border-image: linear-gradient(red, blue);
     border-image-slice: 1;
 }
 
