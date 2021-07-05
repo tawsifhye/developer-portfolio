@@ -25,7 +25,7 @@ h1 {
 .half-width {
     width: 50%;
     padding-left: 2%;
-    box-shadow: 10px 10px yellowgreen;
+
 }
 
 .half-width img {
@@ -73,4 +73,16 @@ h2 {
     padding-left: 10px;
     border-radius: 5px;
     box-shadow: 10px 10px 40px gray;
+}
+
+#web-dev-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c);
+    border-image-slice: 1;
+}
+
+#full-stack-exp {
+    border-left: 7px solid;
+    border-image: linear-gradient(red blue);
+    border-image-slice: 1;
 }
